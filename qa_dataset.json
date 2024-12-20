@@ -1,0 +1,1802 @@
+[
+    {
+        "qid": "aa2d8cdd-0758-4035-b0b6-ca18e2f380d8",
+        "question": "Data processing consent",
+        "answer": "Yeah, sure thing, I'm totally fine with you processing my data!",
+        "check_aid": "ee0437c0-6335-4b88-8bc5-d4eb8e2c68bf"
+    },
+    {
+        "qid": "aa2d8cdd-0758-4035-b0b6-ca18e2f380d8",
+        "question": "Data processing consent",
+        "answer": "Okay, yes, go ahead and process my data, I don't mind at all.",
+        "check_aid": "ee0437c0-6335-4b88-8bc5-d4eb8e2c68bf"
+    },
+    {
+        "qid": "aa2d8cdd-0758-4035-b0b6-ca18e2f380d8",
+        "question": "Data processing consent",
+        "answer": "Yes, I give you my consent for data processing.  No problem!",
+        "check_aid": "ee0437c0-6335-4b88-8bc5-d4eb8e2c68bf"
+    },
+    {
+        "qid": "aa2d8cdd-0758-4035-b0b6-ca18e2f380d8",
+        "question": "Data processing consent",
+        "answer": "Absolutely!  Data processing?  Sounds good to me.",
+        "check_aid": "ee0437c0-6335-4b88-8bc5-d4eb8e2c68bf"
+    },
+    {
+        "qid": "aa2d8cdd-0758-4035-b0b6-ca18e2f380d8",
+        "question": "Data processing consent",
+        "answer": "Yep,  I consent to the data processing,  happy to help!",
+        "check_aid": "ee0437c0-6335-4b88-8bc5-d4eb8e2c68bf"
+    },
+    {
+        "qid": "aa2d8cdd-0758-4035-b0b6-ca18e2f380d8",
+        "question": "Data processing consent",
+        "answer": "Nope, I'd rather not give consent for data processing, thanks.",
+        "check_aid": "d357ab84-929f-440a-b9ad-42ff36402a53"
+    },
+    {
+        "qid": "aa2d8cdd-0758-4035-b0b6-ca18e2f380d8",
+        "question": "Data processing consent",
+        "answer": "Nah, I'm not comfortable with that data processing thing.",
+        "check_aid": "d357ab84-929f-440a-b9ad-42ff36402a53"
+    },
+    {
+        "qid": "aa2d8cdd-0758-4035-b0b6-ca18e2f380d8",
+        "question": "Data processing consent",
+        "answer": "No way, I'm not giving my consent for data processing.",
+        "check_aid": "d357ab84-929f-440a-b9ad-42ff36402a53"
+    },
+    {
+        "qid": "aa2d8cdd-0758-4035-b0b6-ca18e2f380d8",
+        "question": "Data processing consent",
+        "answer": "I'm going to have to say no to data processing consent, I'm afraid.",
+        "check_aid": "d357ab84-929f-440a-b9ad-42ff36402a53"
+    },
+    {
+        "qid": "aa2d8cdd-0758-4035-b0b6-ca18e2f380d8",
+        "question": "Data processing consent",
+        "answer": "My answer to data processing consent is a resounding no.",
+        "check_aid": "d357ab84-929f-440a-b9ad-42ff36402a53"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "Oh, I'd definitely say I'm part of the end-user group!",
+        "check_aid": "53cc44fa-397b-40bf-8af8-3f629818c93b"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "Yeah, I'm an end user, that's me!  Just a regular person using the app.",
+        "check_aid": "53cc44fa-397b-40bf-8af8-3f629818c93b"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "I fall under the category of end user, if that's what you're asking.",
+        "check_aid": "53cc44fa-397b-40bf-8af8-3f629818c93b"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "End user is the perfect description for me in this context.",
+        "check_aid": "53cc44fa-397b-40bf-8af8-3f629818c93b"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "Definitely an end user – that's who I am!",
+        "check_aid": "53cc44fa-397b-40bf-8af8-3f629818c93b"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "Oh, yeah, I mostly work with wholesalers and distributors.",
+        "check_aid": "bab850d1-2de8-4cae-9f87-2c86d41615e8"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "My customer base?  It's primarily wholesalers and distributors, you know.",
+        "check_aid": "bab850d1-2de8-4cae-9f87-2c86d41615e8"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "Definitely wholesalers and distributors are who I'm selling to.",
+        "check_aid": "bab850d1-2de8-4cae-9f87-2c86d41615e8"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "Let me tell you,  I deal almost exclusively with wholesalers and distributors. That's the main gig.",
+        "check_aid": "bab850d1-2de8-4cae-9f87-2c86d41615e8"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "When it comes to my customers, it's a pretty clear picture: it's all wholesalers and distributors.",
+        "check_aid": "bab850d1-2de8-4cae-9f87-2c86d41615e8"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "Oh, the customer group?  That would be consultants, planners, and architects, yeah.",
+        "check_aid": "31ffae1e-f742-4a0b-b279-eb393483f075"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "Let me see...  we're talking consultants, architects, and planners, mostly.",
+        "check_aid": "31ffae1e-f742-4a0b-b279-eb393483f075"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "The main customer group?  Definitely consultants, architects, and planners!  It's a pretty specific bunch.",
+        "check_aid": "31ffae1e-f742-4a0b-b279-eb393483f075"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "Well, in terms of who we're working with, it's primarily consultants, architects, and planners.",
+        "check_aid": "31ffae1e-f742-4a0b-b279-eb393483f075"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "You know, the people we serve?  It's a mix of consultants, planners, and architects.",
+        "check_aid": "31ffae1e-f742-4a0b-b279-eb393483f075"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "Oh, I'm definitely part of the R&D group, yeah!",
+        "check_aid": "ed56f777-a7cd-48db-9d36-e2579c57e361"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "R&D is the team I'm working with, that's for sure.",
+        "check_aid": "ed56f777-a7cd-48db-9d36-e2579c57e361"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "Yep, I'm in R&D, that's my area of focus.",
+        "check_aid": "ed56f777-a7cd-48db-9d36-e2579c57e361"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "I belong to the R&D customer group, if that's what you mean.",
+        "check_aid": "ed56f777-a7cd-48db-9d36-e2579c57e361"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "My group?  It's R&D,  the research and development team.",
+        "check_aid": "ed56f777-a7cd-48db-9d36-e2579c57e361"
+    },
+    {
+        "qid": "3f34e5b3-1cb0-48ea-93d2-3f21b3371b5d",
+        "question": "Would you like to receive marketing information from via e-mail?",
+        "answer": "Yeah, sure, sign me up! I'd love to hear about your latest offers.",
+        "check_aid": "d5042c22-3c92-4188-a8e0-8241718491db"
+    },
+    {
+        "qid": "3f34e5b3-1cb0-48ea-93d2-3f21b3371b5d",
+        "question": "Would you like to receive marketing information from via e-mail?",
+        "answer": "Yes, please! I'm always interested in seeing what new marketing things you guys come up with.",
+        "check_aid": "d5042c22-3c92-4188-a8e0-8241718491db"
+    },
+    {
+        "qid": "3f34e5b3-1cb0-48ea-93d2-3f21b3371b5d",
+        "question": "Would you like to receive marketing information from via e-mail?",
+        "answer": "Absolutely!  I'm happy to receive emails from you.",
+        "check_aid": "d5042c22-3c92-4188-a8e0-8241718491db"
+    },
+    {
+        "qid": "3f34e5b3-1cb0-48ea-93d2-3f21b3371b5d",
+        "question": "Would you like to receive marketing information from via e-mail?",
+        "answer": "Okay, yes, I'll add my email to your list. Sounds good.",
+        "check_aid": "d5042c22-3c92-4188-a8e0-8241718491db"
+    },
+    {
+        "qid": "3f34e5b3-1cb0-48ea-93d2-3f21b3371b5d",
+        "question": "Would you like to receive marketing information from via e-mail?",
+        "answer": "Yes, I am interested in receiving marketing emails; please add me to your list.",
+        "check_aid": "d5042c22-3c92-4188-a8e0-8241718491db"
+    },
+    {
+        "qid": "3f34e5b3-1cb0-48ea-93d2-3f21b3371b5d",
+        "question": "Would you like to receive marketing information from via e-mail?",
+        "answer": "Nah, I'm not really into getting a ton of emails, thanks.",
+        "check_aid": "2dc6350a-067b-4192-bbc3-bf2b8b998aa5"
+    },
+    {
+        "qid": "3f34e5b3-1cb0-48ea-93d2-3f21b3371b5d",
+        "question": "Would you like to receive marketing information from via e-mail?",
+        "answer": "No way, I prefer to manage my inbox myself.  Too many emails is a headache!",
+        "check_aid": "2dc6350a-067b-4192-bbc3-bf2b8b998aa5"
+    },
+    {
+        "qid": "3f34e5b3-1cb0-48ea-93d2-3f21b3371b5d",
+        "question": "Would you like to receive marketing information from via e-mail?",
+        "answer": "Nope, I'd rather not be bombarded with marketing emails.",
+        "check_aid": "2dc6350a-067b-4192-bbc3-bf2b8b998aa5"
+    },
+    {
+        "qid": "3f34e5b3-1cb0-48ea-93d2-3f21b3371b5d",
+        "question": "Would you like to receive marketing information from via e-mail?",
+        "answer": "I appreciate the offer, but I'll pass on the marketing emails, please.",
+        "check_aid": "2dc6350a-067b-4192-bbc3-bf2b8b998aa5"
+    },
+    {
+        "qid": "3f34e5b3-1cb0-48ea-93d2-3f21b3371b5d",
+        "question": "Would you like to receive marketing information from via e-mail?",
+        "answer": "No thank you, I'm good.",
+        "check_aid": "2dc6350a-067b-4192-bbc3-bf2b8b998aa5"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Oh, I'm knee-deep in the world of aerospace, it's quite exciting!",
+        "check_aid": "a7828c43-4798-4bca-86d4-ea3a598c2444"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "I work in the aerospace industry; rockets and satellites, you know the drill.",
+        "check_aid": "a7828c43-4798-4bca-86d4-ea3a598c2444"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Yeah, the aerospace industry's where it's at for me.  Lots of cool stuff going on!",
+        "check_aid": "a7828c43-4798-4bca-86d4-ea3a598c2444"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "My work's all about aerospace.  It's a fascinating field.",
+        "check_aid": "a7828c43-4798-4bca-86d4-ea3a598c2444"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "I'm heavily involved in aerospace; it's a demanding but rewarding sector.",
+        "check_aid": "a7828c43-4798-4bca-86d4-ea3a598c2444"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Oh, I'm knee-deep in the world of Computers & Networks, it's what I do!",
+        "check_aid": "797447d4-1466-4cc2-9e86-97311553446e"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "I'm heavily involved in the Computers & Networks industry, yeah.",
+        "check_aid": "797447d4-1466-4cc2-9e86-97311553446e"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "My work revolves around Computers & Networks, that's my area of expertise.",
+        "check_aid": "797447d4-1466-4cc2-9e86-97311553446e"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Computers & Networks, that's the industry I'm currently operating within.",
+        "check_aid": "797447d4-1466-4cc2-9e86-97311553446e"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "So, the short answer is Computers & Networks – that's my playground!",
+        "check_aid": "797447d4-1466-4cc2-9e86-97311553446e"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Oh, I work in the government sector, you know, public service and all that.",
+        "check_aid": "cd98117f-c316-4169-bfc5-372a6f3f287f"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "I'm involved with the government; it's my industry, yup.",
+        "check_aid": "cd98117f-c316-4169-bfc5-372a6f3f287f"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Government's where I'm at, that's my professional world.",
+        "check_aid": "cd98117f-c316-4169-bfc5-372a6f3f287f"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "My industry?  It's the government.  Lots of paperwork!",
+        "check_aid": "cd98117f-c316-4169-bfc5-372a6f3f287f"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "I'm currently operating within the government industry.  It keeps things interesting, I'll tell you that much!",
+        "check_aid": "cd98117f-c316-4169-bfc5-372a6f3f287f"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Oh, I'm in the medical industry, yeah!",
+        "check_aid": "4a75819c-a81e-4eb4-9934-92ecfeb05b69"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "I work within the medical field, you know.",
+        "check_aid": "4a75819c-a81e-4eb4-9934-92ecfeb05b69"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "The medical industry is where I spend my days, believe it or not.",
+        "check_aid": "4a75819c-a81e-4eb4-9934-92ecfeb05b69"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "It's the medical industry that keeps me busy, that's for sure!",
+        "check_aid": "4a75819c-a81e-4eb4-9934-92ecfeb05b69"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Medical's the sector I'm involved in, if you must know.",
+        "check_aid": "4a75819c-a81e-4eb4-9934-92ecfeb05b69"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Oh, I'm in the automotive industry, yeah!",
+        "check_aid": "e9d87cba-2bb2-41f6-808b-33fa75b08b56"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "I work within the automotive sector, that's my area of expertise.",
+        "check_aid": "e9d87cba-2bb2-41f6-808b-33fa75b08b56"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "The automotive industry is where I spend my days, believe it or not!",
+        "check_aid": "e9d87cba-2bb2-41f6-808b-33fa75b08b56"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Automotive is the name of the game for me, if you know what I mean.",
+        "check_aid": "e9d87cba-2bb2-41f6-808b-33fa75b08b56"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Let's just say my work revolves around the automotive world – that's my gig.",
+        "check_aid": "e9d87cba-2bb2-41f6-808b-33fa75b08b56"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Oh, I'm knee-deep in the defense industry, actually.",
+        "check_aid": "619eee6b-c8b5-4c66-9b5e-e0592a7b6475"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "I work in defense, it's quite a fascinating field.",
+        "check_aid": "619eee6b-c8b5-4c66-9b5e-e0592a7b6475"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "The defense industry is where I ply my trade, you could say.",
+        "check_aid": "619eee6b-c8b5-4c66-9b5e-e0592a7b6475"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Yeah, I'm all about the defense sector these days.  Keeps things interesting!",
+        "check_aid": "619eee6b-c8b5-4c66-9b5e-e0592a7b6475"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Defense is the name of the game for me right now.",
+        "check_aid": "619eee6b-c8b5-4c66-9b5e-e0592a7b6475"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Oh, I'm in the industrial sector, that's where I ply my trade!",
+        "check_aid": "f9d80479-420f-459f-99e6-6eb8d4110796"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "I work within the industrial industry, yup that's the one!",
+        "check_aid": "f9d80479-420f-459f-99e6-6eb8d4110796"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "The industrial sector is where I spend my days, you know.",
+        "check_aid": "f9d80479-420f-459f-99e6-6eb8d4110796"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "I'm knee-deep in the industrial world, always something going on.",
+        "check_aid": "f9d80479-420f-459f-99e6-6eb8d4110796"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Yeah, I'm firmly planted in the industrial field, it keeps me busy!",
+        "check_aid": "f9d80479-420f-459f-99e6-6eb8d4110796"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Oh, I'm heavily involved in the Network Operators & Infrastructure industry, it's a fascinating field!",
+        "check_aid": "506d7408-2ede-451c-a04b-1e29d6c81236"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "I'm working within the Network Operators & Infrastructure space, that's my current focus.",
+        "check_aid": "506d7408-2ede-451c-a04b-1e29d6c81236"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Yeah, the Network Operators & Infrastructure industry is where I spend most of my time.",
+        "check_aid": "506d7408-2ede-451c-a04b-1e29d6c81236"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "My work primarily centers around Network Operators & Infrastructure,  if that's what you're asking.",
+        "check_aid": "506d7408-2ede-451c-a04b-1e29d6c81236"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Let me put it this way:  Network Operators & Infrastructure is the industry I call home, professionally speaking.",
+        "check_aid": "506d7408-2ede-451c-a04b-1e29d6c81236"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Oh, I'm involved in the public safety and law enforcement sector, yeah.",
+        "check_aid": "2ec898ba-0421-4edd-a1cd-7f0dd867ac46"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "I work in the Public Safety / Law Enforcement industry, that's my area of expertise.",
+        "check_aid": "2ec898ba-0421-4edd-a1cd-7f0dd867ac46"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "The industry I'm in?  Public Safety and Law Enforcement, to be exact.",
+        "check_aid": "2ec898ba-0421-4edd-a1cd-7f0dd867ac46"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Public Safety / Law Enforcement is where I'm at, if you're asking.  Busy field!",
+        "check_aid": "2ec898ba-0421-4edd-a1cd-7f0dd867ac46"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "So, the short answer is Public Safety / Law Enforcement – that's what I do!",
+        "check_aid": "2ec898ba-0421-4edd-a1cd-7f0dd867ac46"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Oh, I'm knee-deep in the world of physical security, yeah!",
+        "check_aid": "3b806e12-1a6b-4eae-9d35-52c23f5ea074"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "I work in the physical security industry, that's my gig.",
+        "check_aid": "3b806e12-1a6b-4eae-9d35-52c23f5ea074"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Physical security is what I'm all about, you know.",
+        "check_aid": "3b806e12-1a6b-4eae-9d35-52c23f5ea074"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "Yep, I'm involved in the physical security sector, if that's what you're asking.",
+        "check_aid": "3b806e12-1a6b-4eae-9d35-52c23f5ea074"
+    },
+    {
+        "qid": "ba042f33-697e-4c6f-924c-b4de2c30f443",
+        "question": "What industry are you operating in?",
+        "answer": "So, the industry I'm in? That'd be physical security, for sure.",
+        "check_aid": "3b806e12-1a6b-4eae-9d35-52c23f5ea074"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "Oh, it's a construction company, yeah!",
+        "check_aid": "567a5789-ad9c-4b6e-9946-d2288e00dd3f"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "They're a construction company, that's what I've got written down here.",
+        "check_aid": "567a5789-ad9c-4b6e-9946-d2288e00dd3f"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "It's a construction company, if you're asking.",
+        "check_aid": "567a5789-ad9c-4b6e-9946-d2288e00dd3f"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "I believe it's a construction company, yes.",
+        "check_aid": "567a5789-ad9c-4b6e-9946-d2288e00dd3f"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "A construction company is what they are, that's the one.",
+        "check_aid": "567a5789-ad9c-4b6e-9946-d2288e00dd3f"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "Oh, it's a craft enterprises type of company, you know, the kind that makes really cool handmade stuff!",
+        "check_aid": "b09c1744-c662-4879-a3fc-35b6cf808db8"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "They're a craft enterprises company; that's what I've gathered from my research, anyway.",
+        "check_aid": "b09c1744-c662-4879-a3fc-35b6cf808db8"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "Yep, it's definitely one of those craft enterprises, if you know what I mean.",
+        "check_aid": "b09c1744-c662-4879-a3fc-35b6cf808db8"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "So, the company?  It's a craft enterprises business, that's for sure.",
+        "check_aid": "b09c1744-c662-4879-a3fc-35b6cf808db8"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "It's a craft enterprises firm;  I'm pretty confident about that.",
+        "check_aid": "b09c1744-c662-4879-a3fc-35b6cf808db8"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "Oh, it's a scaffolding company, yeah!",
+        "check_aid": "6da05930-6493-4855-8c2f-e892089cbef2"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "They're a scaffolding company, that's what I've been told.",
+        "check_aid": "6da05930-6493-4855-8c2f-e892089cbef2"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "It's a scaffolding company, if that's what you're asking.",
+        "check_aid": "6da05930-6493-4855-8c2f-e892089cbef2"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "Yup, it's definitely a scaffolding company!  I'm pretty sure about that.",
+        "check_aid": "6da05930-6493-4855-8c2f-e892089cbef2"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "So, the kind of company it is?  A scaffolding company.",
+        "check_aid": "6da05930-6493-4855-8c2f-e892089cbef2"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "Oh, it's a trading company, that's right!",
+        "check_aid": "2f68f1bb-434f-478e-98c3-def022b6b353"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "It's a trading company, if that's what you're asking.",
+        "check_aid": "2f68f1bb-434f-478e-98c3-def022b6b353"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "Yeah, it's definitely a trading company, I'm pretty sure.",
+        "check_aid": "2f68f1bb-434f-478e-98c3-def022b6b353"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "The type of company it is?  A trading company!",
+        "check_aid": "2f68f1bb-434f-478e-98c3-def022b6b353"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "So, to answer your question, it's a trading company.",
+        "check_aid": "2f68f1bb-434f-478e-98c3-def022b6b353"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "Oh, it's a production company, you know, the kind that makes movies and stuff.",
+        "check_aid": "44c4ef5d-7234-436c-961d-ba3b8b30b02f"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "They're a production company; that's what I gathered from their website, anyway.",
+        "check_aid": "44c4ef5d-7234-436c-961d-ba3b8b30b02f"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "Yeah, it's definitely a production company,  a big one, I think.",
+        "check_aid": "44c4ef5d-7234-436c-961d-ba3b8b30b02f"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "It's a production company,  as far as I can tell from their projects.",
+        "check_aid": "44c4ef5d-7234-436c-961d-ba3b8b30b02f"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "A production company is what they are!  That's the business they're in.",
+        "check_aid": "44c4ef5d-7234-436c-961d-ba3b8b30b02f"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "Oh, it's a company that operates in the education sector, yeah!",
+        "check_aid": "ebf6c300-4c44-4a19-b822-a3ece594d142"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "They're definitely in the education sector; that's what I've gathered.",
+        "check_aid": "ebf6c300-4c44-4a19-b822-a3ece594d142"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "It's an education sector company, as far as I can tell.",
+        "check_aid": "ebf6c300-4c44-4a19-b822-a3ece594d142"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "The type of company?  It's one of those education sector ones.",
+        "check_aid": "ebf6c300-4c44-4a19-b822-a3ece594d142"
+    },
+    {
+        "qid": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "question": "What type of company is it?",
+        "answer": "Yep, it's firmly within the education sector.",
+        "check_aid": "ebf6c300-4c44-4a19-b822-a3ece594d142"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "We're a pretty small team, actually, somewhere in the range of one to ten people.",
+        "check_aid": "807c738f-af1f-41ff-88ce-22dae769ea0b"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "Oh, we're a tiny company! I'd say we're in that sweet spot of between one and ten employees.",
+        "check_aid": "807c738f-af1f-41ff-88ce-22dae769ea0b"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "The company's pretty small; it's a team of one to ten people.",
+        "check_aid": "807c738f-af1f-41ff-88ce-22dae769ea0b"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "It's a small business, you know, just one to ten of us working hard.",
+        "check_aid": "807c738f-af1f-41ff-88ce-22dae769ea0b"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "We're a small operation,  definitely in the 1-10 employee range.",
+        "check_aid": "807c738f-af1f-41ff-88ce-22dae769ea0b"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "We're a pretty sizable operation, I'd say somewhere in the eleven to fifty employee range.",
+        "check_aid": "afe07a23-39fa-4752-89d0-a51fc8f64bdd"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "Oh, the company size?  It's a medium-sized outfit, between eleven and fifty people.",
+        "check_aid": "afe07a23-39fa-4752-89d0-a51fc8f64bdd"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "We've got a team of eleven to fifty people working hard every day!",
+        "check_aid": "afe07a23-39fa-4752-89d0-a51fc8f64bdd"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "The headcount's in that sweet spot between eleven and fifty employees.",
+        "check_aid": "afe07a23-39fa-4752-89d0-a51fc8f64bdd"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "We fall in the eleven to fifty employee bracket, yeah.",
+        "check_aid": "afe07a23-39fa-4752-89d0-a51fc8f64bdd"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "We're a medium-sized company, I'd say, somewhere in the 51-200 employee range.",
+        "check_aid": "a52ccbc7-440d-43a2-80f7-bd7052a642de"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "Oh, the headcount?  It's between 51 and 200,  a pretty good-sized team!",
+        "check_aid": "a52ccbc7-440d-43a2-80f7-bd7052a642de"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "We've got a team of between 51 and 200 people working hard every day.",
+        "check_aid": "a52ccbc7-440d-43a2-80f7-bd7052a642de"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "The company's size?  Let's just say we're comfortably nestled in the 51-200 employee bracket.",
+        "check_aid": "a52ccbc7-440d-43a2-80f7-bd7052a642de"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "Well, to be precise, the number of people working here falls within the 51-200 employee range.",
+        "check_aid": "a52ccbc7-440d-43a2-80f7-bd7052a642de"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "Oh, we're a mid-sized company, I'd say.  Somewhere in the range of 201 to 2000 employees.",
+        "check_aid": "7d07612b-434d-4958-bb10-d4603a2cc1d8"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "We've got a pretty good-sized team, you know, between 201 and 2000 people working hard every day.",
+        "check_aid": "7d07612b-434d-4958-bb10-d4603a2cc1d8"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "Our employee count falls comfortably within the 201-2000 bracket.  It's a pretty substantial operation.",
+        "check_aid": "7d07612b-434d-4958-bb10-d4603a2cc1d8"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "Let's just say we're a sizable organization, with a workforce numbering between 201 and 2000.",
+        "check_aid": "7d07612b-434d-4958-bb10-d4603a2cc1d8"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "The company I work for?  Well, it's a fairly large outfit; we're talking 201 to 2000 employees.",
+        "check_aid": "7d07612b-434d-4958-bb10-d4603a2cc1d8"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "Oh wow, we're a pretty big outfit, definitely larger than 2000 people!",
+        "check_aid": "3b5467c0-e7a3-4040-8a4f-a0a62896372b"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "We're a substantial company;  think well over 2000 employees.",
+        "check_aid": "3b5467c0-e7a3-4040-8a4f-a0a62896372b"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "Let's just say the headcount is significantly larger than 2000.",
+        "check_aid": "3b5467c0-e7a3-4040-8a4f-a0a62896372b"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "Yeah, it's a huge place I work for – easily larger than 2000 people.",
+        "check_aid": "3b5467c0-e7a3-4040-8a4f-a0a62896372b"
+    },
+    {
+        "qid": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "question": "What is the size of your company?",
+        "answer": "The employee roster?  Way, way more than 2000, it's a massive company.",
+        "check_aid": "3b5467c0-e7a3-4040-8a4f-a0a62896372b"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Oh, I'd prefer to communicate in German, please.",
+        "check_aid": "4908d36f-eeac-4d58-9c11-357e419222b2"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "German would be fantastic, thanks!",
+        "check_aid": "4908d36f-eeac-4d58-9c11-357e419222b2"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "I'd much rather chat in German if that's alright.",
+        "check_aid": "4908d36f-eeac-4d58-9c11-357e419222b2"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Definitely German for me, please.",
+        "check_aid": "4908d36f-eeac-4d58-9c11-357e419222b2"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Let's go with German, that's my preferred language.",
+        "check_aid": "4908d36f-eeac-4d58-9c11-357e419222b2"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Oh, I'd prefer to communicate in Italian, please!",
+        "check_aid": "e1843724-18b2-4010-ae4f-45ecbd88a547"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Italian, it is! That's my language of choice.",
+        "check_aid": "e1843724-18b2-4010-ae4f-45ecbd88a547"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "I'm feeling quite *Italiano* today, so let's go with that.",
+        "check_aid": "e1843724-18b2-4010-ae4f-45ecbd88a547"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Absolutely, Italian would be wonderful.",
+        "check_aid": "e1843724-18b2-4010-ae4f-45ecbd88a547"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "For this conversation, I'm going with Italian.",
+        "check_aid": "e1843724-18b2-4010-ae4f-45ecbd88a547"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Oh, I'd really prefer to chat in Japanese, please!",
+        "check_aid": "8c0cafa3-3666-442d-8464-f18cfb5b81bc"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Japanese would be fantastic, thanks!",
+        "check_aid": "8c0cafa3-3666-442d-8464-f18cfb5b81bc"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "I'm much more comfortable communicating in Japanese.",
+        "check_aid": "8c0cafa3-3666-442d-8464-f18cfb5b81bc"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Let's definitely go with Japanese for this conversation.",
+        "check_aid": "8c0cafa3-3666-442d-8464-f18cfb5b81bc"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Japanese is my preferred language for this, if that's alright.",
+        "check_aid": "8c0cafa3-3666-442d-8464-f18cfb5b81bc"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Oh, definitely English, that's my go-to!",
+        "check_aid": "892831da-c467-44e8-b7a6-72938fd91659"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "English please, it's easiest for me.",
+        "check_aid": "892831da-c467-44e8-b7a6-72938fd91659"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "I'd prefer to communicate in English, if that's alright.",
+        "check_aid": "892831da-c467-44e8-b7a6-72938fd91659"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Let's go with English; I'm much more comfortable with that.",
+        "check_aid": "892831da-c467-44e8-b7a6-72938fd91659"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "English works perfectly for me, thanks!",
+        "check_aid": "892831da-c467-44e8-b7a6-72938fd91659"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Oh, I'd really prefer to chat in Spanish, please!",
+        "check_aid": "aab1f8d2-d0fc-4b45-a383-249f1ba6afec"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Spanish it is! That's my go-to language.",
+        "check_aid": "aab1f8d2-d0fc-4b45-a383-249f1ba6afec"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "I'd much rather communicate in Spanish, if that's alright.",
+        "check_aid": "aab1f8d2-d0fc-4b45-a383-249f1ba6afec"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "For communication, I'd like to use Spanish, thanks.",
+        "check_aid": "aab1f8d2-d0fc-4b45-a383-249f1ba6afec"
+    },
+    {
+        "qid": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "question": "Which language is wanted for communication? ",
+        "answer": "Definitely Spanish!  Let's go with that.",
+        "check_aid": "aab1f8d2-d0fc-4b45-a383-249f1ba6afec"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "Oh hey there!  I'm actually brand new to your amazing app.  So yeah, new customer!",
+        "check_aid": "57799717-9780-45f3-b8a8-56c15fdc579f"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "This is my first time using this, so I guess that makes me a new customer, right?",
+        "check_aid": "57799717-9780-45f3-b8a8-56c15fdc579f"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "Yep, I'm a fresh face around here – a new customer!",
+        "check_aid": "57799717-9780-45f3-b8a8-56c15fdc579f"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "I've never used this app before, so I'd consider myself a new customer.",
+        "check_aid": "57799717-9780-45f3-b8a8-56c15fdc579f"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "First time's the charm, I'm a new customer!",
+        "check_aid": "57799717-9780-45f3-b8a8-56c15fdc579f"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "Oh yeah, I'm a returning champ! I've been using your app for ages.",
+        "check_aid": "d1b2a8eb-3684-410d-aec7-32bbde92218c"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "I'm an existing customer,  been with you guys for a while now.",
+        "check_aid": "d1b2a8eb-3684-410d-aec7-32bbde92218c"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "Definitely an existing customer; wouldn't be here otherwise, would I?",
+        "check_aid": "d1b2a8eb-3684-410d-aec7-32bbde92218c"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "Yep, I'm a loyal, existing customer,  happy to be back!",
+        "check_aid": "d1b2a8eb-3684-410d-aec7-32bbde92218c"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "I'm an existing customer –  I've got a whole history with this app!",
+        "check_aid": "d1b2a8eb-3684-410d-aec7-32bbde92218c"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "Oh, I'm a partner with the company, you see.",
+        "check_aid": "6f4d1a3b-f0a3-4064-8939-f679de34552c"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "We're partners in this endeavor, yes indeed!",
+        "check_aid": "6f4d1a3b-f0a3-4064-8939-f679de34552c"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "I'd classify myself as a partner in this situation.",
+        "check_aid": "6f4d1a3b-f0a3-4064-8939-f679de34552c"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "Partner is the correct designation for me, I believe.",
+        "check_aid": "6f4d1a3b-f0a3-4064-8939-f679de34552c"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "Absolutely, I'm a partner.",
+        "check_aid": "6f4d1a3b-f0a3-4064-8939-f679de34552c"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "Oh, I'm an applicant, yes!",
+        "check_aid": "3ac5dbfd-164f-42a3-a824-e28d40fd74dd"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "I'd say I fall under the \"applicant\" category.",
+        "check_aid": "3ac5dbfd-164f-42a3-a824-e28d40fd74dd"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "Applicant is the word you're looking for, I think.",
+        "check_aid": "3ac5dbfd-164f-42a3-a824-e28d40fd74dd"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "Definitely an applicant, that's me!",
+        "check_aid": "3ac5dbfd-164f-42a3-a824-e28d40fd74dd"
+    },
+    {
+        "qid": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "question": "Customer type",
+        "answer": "Yep, applicant's the one for me.",
+        "check_aid": "3ac5dbfd-164f-42a3-a824-e28d40fd74dd"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Oh, I'm very satisfied with the app, it's been a real lifesaver!",
+        "check_aid": "5031fa14-e1a1-4ea0-8ff3-5577bb3a1e1c"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Yeah, I'd say I'm very satisfied,  works like a charm!",
+        "check_aid": "5031fa14-e1a1-4ea0-8ff3-5577bb3a1e1c"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "I'm extremely happy with it,  very satisfied indeed!",
+        "check_aid": "5031fa14-e1a1-4ea0-8ff3-5577bb3a1e1c"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Absolutely! Very satisfied with the service, no complaints here.",
+        "check_aid": "5031fa14-e1a1-4ea0-8ff3-5577bb3a1e1c"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "I'm very satisfied,  couldn't ask for a better experience, honestly.",
+        "check_aid": "5031fa14-e1a1-4ea0-8ff3-5577bb3a1e1c"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Yeah, I'm totally satisfied with the app, it's been great!",
+        "check_aid": "e9316dbd-d2e9-4e47-a727-8d31c321ceb2"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Oh, absolutely satisfied!  Couldn't be happier, really.",
+        "check_aid": "e9316dbd-d2e9-4e47-a727-8d31c321ceb2"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "I'm very satisfied, it's exceeded my expectations, honestly.",
+        "check_aid": "e9316dbd-d2e9-4e47-a727-8d31c321ceb2"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Satisfied?  You betcha!  This app is a lifesaver.",
+        "check_aid": "e9316dbd-d2e9-4e47-a727-8d31c321ceb2"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Yep, I'm happy with it, definitely satisfied with the service.",
+        "check_aid": "e9316dbd-d2e9-4e47-a727-8d31c321ceb2"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Honestly, I'm pretty unsatisfied with the app lately.",
+        "check_aid": "509201f6-f480-4bad-9b70-d9e7c5ec3315"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Nah, I wouldn't say I'm satisfied, not at all, actually.",
+        "check_aid": "509201f6-f480-4bad-9b70-d9e7c5ec3315"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "To be frank, my customer satisfaction level is quite low right now.",
+        "check_aid": "509201f6-f480-4bad-9b70-d9e7c5ec3315"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Unsatisfied is the word I'd use, yeah.  Things could definitely be better.",
+        "check_aid": "509201f6-f480-4bad-9b70-d9e7c5ec3315"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "I'm feeling pretty disappointed, so I guess that means I'm unsatisfied.",
+        "check_aid": "509201f6-f480-4bad-9b70-d9e7c5ec3315"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Oh man, I'm very unsatisfied with the service I received, it was a total disaster!",
+        "check_aid": "da961c5b-073c-44d0-b346-b99245cc83be"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Honestly, I'm extremely dissatisfied; the whole experience left much to be desired.",
+        "check_aid": "da961c5b-073c-44d0-b346-b99245cc83be"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Yeah, I'd have to say I'm very unsatisfied, it fell way short of expectations.",
+        "check_aid": "da961c5b-073c-44d0-b346-b99245cc83be"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "To put it bluntly, I'm very unsatisfied and I'm not happy about it at all.",
+        "check_aid": "da961c5b-073c-44d0-b346-b99245cc83be"
+    },
+    {
+        "qid": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "question": "Customer satisfaction",
+        "answer": "Let's just say I'm very unsatisfied and I'm already thinking of switching to a competitor.",
+        "check_aid": "da961c5b-073c-44d0-b346-b99245cc83be"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Oh, the trade fair team?  On average, I'd say it's usually somewhere between one and five people.",
+        "check_aid": "549deb8e-ed74-41dc-a9ac-c4b90439d88a"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "It varies, of course, but I'd put the average team size at between one and five, yeah.",
+        "check_aid": "549deb8e-ed74-41dc-a9ac-c4b90439d88a"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Between one and five people is generally what I've seen for the trade fair team, give or take.",
+        "check_aid": "549deb8e-ed74-41dc-a9ac-c4b90439d88a"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Typically, the trade fair team is comprised of a small group;  I'd estimate between one and five members.",
+        "check_aid": "549deb8e-ed74-41dc-a9ac-c4b90439d88a"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Thinking about it, I'd say the trade show team is usually a small bunch, anywhere from one to five people.",
+        "check_aid": "549deb8e-ed74-41dc-a9ac-c4b90439d88a"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Oh, the trade fair team?  On average, I'd say it's somewhere between six and ten people.",
+        "check_aid": "7e22d8a7-7a4b-48ae-ad4a-271c93f912bf"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Six to ten, that's usually the team size for the trade fairs, yeah.",
+        "check_aid": "7e22d8a7-7a4b-48ae-ad4a-271c93f912bf"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Well, it fluctuates, but if you're looking for an average, I'd put it at between six and ten people.",
+        "check_aid": "7e22d8a7-7a4b-48ae-ad4a-271c93f912bf"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "They usually have a team of, hmm, let me think... yeah, about six to ten people at the trade fairs.",
+        "check_aid": "7e22d8a7-7a4b-48ae-ad4a-271c93f912bf"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Between six and ten is a good estimate for the typical size of the trade fair team.",
+        "check_aid": "7e22d8a7-7a4b-48ae-ad4a-271c93f912bf"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Well, on average, I'd say the trade fair team size hovers around eleven to fifteen people.",
+        "check_aid": "63f64c89-5e60-4317-a0d5-e74ad5362823"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "It's usually somewhere between eleven and fifteen, give or take a couple.",
+        "check_aid": "63f64c89-5e60-4317-a0d5-e74ad5362823"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "I'd estimate the team at the trade fair is typically between eleven and fifteen members.",
+        "check_aid": "63f64c89-5e60-4317-a0d5-e74ad5362823"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "The average trade fair team size?  Oh, I'd put it in the eleven to fifteen range.",
+        "check_aid": "63f64c89-5e60-4317-a0d5-e74ad5362823"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Eleven to fifteen people is a pretty good ballpark figure for the size of the trade fair team, you know.",
+        "check_aid": "63f64c89-5e60-4317-a0d5-e74ad5362823"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Oh, the trade fair team?  It usually hovers around sixteen to twenty people, give or take.",
+        "check_aid": "638511f8-010d-47a3-ad06-a16f04812989"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "I'd say the average size of the team is somewhere in the sixteen to twenty range.",
+        "check_aid": "638511f8-010d-47a3-ad06-a16f04812989"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Between sixteen and twenty people are typically on the trade fair team, yeah.",
+        "check_aid": "638511f8-010d-47a3-ad06-a16f04812989"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "You know, on average, I'd estimate the trade fair team's size to be between sixteen and twenty individuals.",
+        "check_aid": "638511f8-010d-47a3-ad06-a16f04812989"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Typically, we're looking at a team of sixteen to twenty for the trade fair.",
+        "check_aid": "638511f8-010d-47a3-ad06-a16f04812989"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Oh, the trade fair team?  On average, I'd say they're usually between 21 and 30 people.",
+        "check_aid": "73905688-90d8-46cb-a718-522e1fb6b690"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Hmm, let me think... yeah, the team size for the trade fairs typically falls within the 21 to 30 person range.",
+        "check_aid": "73905688-90d8-46cb-a718-522e1fb6b690"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Between 21 and 30 people is the average size of the trade fair team, if that's what you're asking.",
+        "check_aid": "73905688-90d8-46cb-a718-522e1fb6b690"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "So, the average number of people on the trade fair team?  It fluctuates, but it's generally somewhere between 21 and 30.",
+        "check_aid": "73905688-90d8-46cb-a718-522e1fb6b690"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "You know, it varies a bit, but I'd estimate the average trade fair team is in that sweet spot of 21 to 30 people.",
+        "check_aid": "73905688-90d8-46cb-a718-522e1fb6b690"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Oh, the trade fair team?  On average, I'd say it's somewhere between 31 and 40 people.",
+        "check_aid": "c8d82b96-9704-4cae-ae30-c705f60e26e3"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "So, yeah, the team size for the trade fairs usually hovers around 31 to 40 people, give or take a few.",
+        "check_aid": "c8d82b96-9704-4cae-ae30-c705f60e26e3"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Between 31 and 40 is a pretty good estimate for the average size of the trade fair team, if you ask me.",
+        "check_aid": "c8d82b96-9704-4cae-ae30-c705f60e26e3"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "I'd put the average trade fair team size at roughly 31 to 40 members,  depending on the specific fair, of course.",
+        "check_aid": "c8d82b96-9704-4cae-ae30-c705f60e26e3"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Let's see...  the average number of people on the trade fair team?  I'd say it generally falls within the 31-40 range.",
+        "check_aid": "c8d82b96-9704-4cae-ae30-c705f60e26e3"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Oh, the trade fair team?  It's usually a pretty big group, more than forty people, actually.",
+        "check_aid": "632eeb14-e201-492d-b374-34b0935ee56f"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "More than forty?  Yeah, easily.  We're talking a massive team for the trade fairs.",
+        "check_aid": "632eeb14-e201-492d-b374-34b0935ee56f"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "Let me see...  it fluctuates a bit, but on average, we're definitely looking at a team of over forty people.",
+        "check_aid": "632eeb14-e201-492d-b374-34b0935ee56f"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "They're a huge crew, I tell ya!  Way more than 40 people strong, always bustling around.",
+        "check_aid": "632eeb14-e201-492d-b374-34b0935ee56f"
+    },
+    {
+        "qid": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "question": "Size of the trade fair team (on average)",
+        "answer": "The trade fair team?  Over forty, easily.  Loads of people involved, it’s quite something to see.",
+        "check_aid": "632eeb14-e201-492d-b374-34b0935ee56f"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Oh yeah, I use Salesforce for my CRM, it's a lifesaver!",
+        "check_aid": "8e8fc562-6a2c-4692-8ae5-2a52da4cb9fc"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Salesforce is the CRM system I'm currently using, it's pretty great.",
+        "check_aid": "8e8fc562-6a2c-4692-8ae5-2a52da4cb9fc"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "We use Salesforce,  it's our go-to CRM system.",
+        "check_aid": "8e8fc562-6a2c-4692-8ae5-2a52da4cb9fc"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "When you say CRM system, the first thing that pops into my head is Salesforce!",
+        "check_aid": "8e8fc562-6a2c-4692-8ae5-2a52da4cb9fc"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Yeah, Salesforce is the CRM system we're rocking.",
+        "check_aid": "8e8fc562-6a2c-4692-8ae5-2a52da4cb9fc"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Oh yeah, I use Pipedrive for my CRM.  It's pretty slick.",
+        "check_aid": "b3edff55-9e0b-4b07-b303-94749f174e24"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Pipedrive's my go-to CRM system, gotta say.",
+        "check_aid": "b3edff55-9e0b-4b07-b303-94749f174e24"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "I'm all about Pipedrive when it comes to managing my customer relationships.",
+        "check_aid": "b3edff55-9e0b-4b07-b303-94749f174e24"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "For CRM,  I'm a Pipedrive kind of person, definitely.",
+        "check_aid": "b3edff55-9e0b-4b07-b303-94749f174e24"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Yeah, I use Pipedrive; it's the best CRM system I've found so far.",
+        "check_aid": "b3edff55-9e0b-4b07-b303-94749f174e24"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Oh yeah, I'm pretty familiar with CRM systems, I use Close.io myself, it's a lifesaver!",
+        "check_aid": "f2e6d399-0e54-4406-a734-b93139cd137a"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Close.io is the one, definitely.  I've tried a few others, but that's the best CRM I've found so far.",
+        "check_aid": "f2e6d399-0e54-4406-a734-b93139cd137a"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "When you say CRM-System, the first thing that pops into my head is Close.io!  It's fantastic.",
+        "check_aid": "f2e6d399-0e54-4406-a734-b93139cd137a"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Let me tell you, I've been using Close.io for ages now, it's my go-to CRM system.",
+        "check_aid": "f2e6d399-0e54-4406-a734-b93139cd137a"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Close.io is a CRM system I'm really happy with,  so yeah, that's my answer.",
+        "check_aid": "f2e6d399-0e54-4406-a734-b93139cd137a"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Oh yeah, I'm super familiar with CRM systems, especially Microsoft Dynamics!  It's a lifesaver for managing all those client interactions.",
+        "check_aid": "f34de2d0-b4c4-4e1f-9afc-79b60b3648af"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Yeah, when it comes to CRM, Microsoft Dynamics is definitely the one I've got the most experience with.  Great system.",
+        "check_aid": "f34de2d0-b4c4-4e1f-9afc-79b60b3648af"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Microsoft Dynamics is the CRM system I use,  so yes, I know all about them!",
+        "check_aid": "f34de2d0-b4c4-4e1f-9afc-79b60b3648af"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Absolutely!  We use Microsoft Dynamics at work; it's a pretty robust system, though I sometimes wish it was a bit more intuitive.",
+        "check_aid": "f34de2d0-b4c4-4e1f-9afc-79b60b3648af"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Microsoft Dynamics rings a bell, yup! That's the CRM software we implemented last year, and I have to say, I've found it really helpful.",
+        "check_aid": "f34de2d0-b4c4-4e1f-9afc-79b60b3648af"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Oh yeah, I'm a big fan of HubSpot as a CRM system!  It's been a lifesaver for me.",
+        "check_aid": "026c6bf5-1a5f-429d-bb0f-256b9250f465"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "HubSpot's my go-to CRM,  I couldn't imagine using anything else, honestly.",
+        "check_aid": "026c6bf5-1a5f-429d-bb0f-256b9250f465"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "When you say \"CRM-system,\" the first thing that pops into my head is HubSpot.  It's fantastic.",
+        "check_aid": "026c6bf5-1a5f-429d-bb0f-256b9250f465"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "For CRM systems?  Definitely HubSpot. It's really intuitive and powerful.",
+        "check_aid": "026c6bf5-1a5f-429d-bb0f-256b9250f465"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "I use HubSpot for my CRM needs –  it's a pretty sweet system!",
+        "check_aid": "026c6bf5-1a5f-429d-bb0f-256b9250f465"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Oh yeah, I'm familiar with CRM systems,  specifically, I use CAS.",
+        "check_aid": "db2c8b3a-bcbb-44a6-af55-0a1de3e157f4"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "CAS?  Yep, that's the CRM system I'm currently working with, it's pretty slick.",
+        "check_aid": "db2c8b3a-bcbb-44a6-af55-0a1de3e157f4"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "When you say \"CRM-System,\" CAS immediately springs to mind; it's my go-to.",
+        "check_aid": "db2c8b3a-bcbb-44a6-af55-0a1de3e157f4"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Absolutely, I'm all about CAS when it comes to CRM systems; it's my favorite!",
+        "check_aid": "db2c8b3a-bcbb-44a6-af55-0a1de3e157f4"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "You betcha,  I use a CRM system –  it's CAS, and it's a lifesaver.",
+        "check_aid": "db2c8b3a-bcbb-44a6-af55-0a1de3e157f4"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Oh yeah, I'm all about SAP Sales Cloud for my CRM needs!",
+        "check_aid": "8a6e75ed-a4e5-4d69-925f-48c3583c17a7"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "SAP Sales Cloud?  Absolutely, that's the CRM system I use, wouldn't use anything else.",
+        "check_aid": "8a6e75ed-a4e5-4d69-925f-48c3583c17a7"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "When you say \"CRM-System,\" the first thing that pops into my head is SAP Sales Cloud.  It's great!",
+        "check_aid": "8a6e75ed-a4e5-4d69-925f-48c3583c17a7"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Let me tell you, my favorite CRM system is definitely SAP Sales Cloud.  I couldn't be happier with it.",
+        "check_aid": "8a6e75ed-a4e5-4d69-925f-48c3583c17a7"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Yeah, we use SAP Sales Cloud as our CRM - it's been working really well for us so far.",
+        "check_aid": "8a6e75ed-a4e5-4d69-925f-48c3583c17a7"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Oh yeah, I use Adito as my CRM system, it's pretty sweet actually.",
+        "check_aid": "fe6aed13-8a56-465c-a1cb-1021aa14411a"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Adito's the CRM I'm rocking right now, can't complain!",
+        "check_aid": "fe6aed13-8a56-465c-a1cb-1021aa14411a"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "When it comes to CRM systems, I'm all about Adito.",
+        "check_aid": "fe6aed13-8a56-465c-a1cb-1021aa14411a"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "Let me tell you, Adito is the CRM system I've settled on. It's been a lifesaver.",
+        "check_aid": "fe6aed13-8a56-465c-a1cb-1021aa14411a"
+    },
+    {
+        "qid": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "question": "CRM-System",
+        "answer": "My go-to CRM?  Adito, without a doubt.",
+        "check_aid": "fe6aed13-8a56-465c-a1cb-1021aa14411a"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "Okay, so next steps?  Yeah, I'd really like to see that offer!",
+        "check_aid": "603910cb-2c4c-4911-9f9b-c85ada7ccb99"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "I'm keen to move forward, so let's look at the offer they've presented.",
+        "check_aid": "603910cb-2c4c-4911-9f9b-c85ada7ccb99"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "Next steps?  Absolutely!  Show me the offer, let's see what it's all about.",
+        "check_aid": "603910cb-2c4c-4911-9f9b-c85ada7ccb99"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "Right, next steps... I'm all ears!  Tell me about this offer.",
+        "check_aid": "603910cb-2c4c-4911-9f9b-c85ada7ccb99"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "Oh, next steps?  Well, the most important thing now is to review the offer they've put on the table, don't you think?",
+        "check_aid": "603910cb-2c4c-4911-9f9b-c85ada7ccb99"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "Okay, so next steps?  Yeah, we definitely need a meeting to discuss this further.",
+        "check_aid": "b46d3f53-bcd5-4b81-976d-4f4a27d1a7b3"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "Next steps?  A meeting is the way to go, I think, to really hash this out.",
+        "check_aid": "b46d3f53-bcd5-4b81-976d-4f4a27d1a7b3"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "Meeting, that's the next thing on the agenda, for sure. We should schedule one ASAP.",
+        "check_aid": "b46d3f53-bcd5-4b81-976d-4f4a27d1a7b3"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "About next steps?  I'd say a meeting is crucial before we move forward.",
+        "check_aid": "b46d3f53-bcd5-4b81-976d-4f4a27d1a7b3"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "Right, next steps...  We're gonna need a meeting to iron out the details.",
+        "check_aid": "b46d3f53-bcd5-4b81-976d-4f4a27d1a7b3"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "Okay, so next steps?  I think I need to make a call, yeah, definitely a call.",
+        "check_aid": "a42139dc-ccf6-4a95-85ef-9b0b6035e60a"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "Next steps?  Time for a phone call, I reckon.",
+        "check_aid": "a42139dc-ccf6-4a95-85ef-9b0b6035e60a"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "Right, next steps... it's calling time!",
+        "check_aid": "a42139dc-ccf6-4a95-85ef-9b0b6035e60a"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "Yeah, the next thing on my to-do list is to give them a call.",
+        "check_aid": "a42139dc-ccf6-4a95-85ef-9b0b6035e60a"
+    },
+    {
+        "qid": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "question": "Next steps",
+        "answer": "I'd say the next step is to pick up the phone and make a call.",
+        "check_aid": "a42139dc-ccf6-4a95-85ef-9b0b6035e60a"
+    }
+]
