@@ -1,7 +1,6 @@
 # Q&A Dataset Generation and Evaluation
 
-Capstone Project for the couse "Topics in Data Science" in WS 2024/25.
-
+Capstone Project for the couse "Topics in Data Science" in WS 2024/25.<br>
 Contributers: Philipp Landeck, Annelie Friedl & Sebastian Leipold.
 
 ## Overview
@@ -25,7 +24,11 @@ This project involves creating and evaluating a Question & Answering (Q&A) datas
 
 ## Repository Structure
 
-- [Questionnaires Folder](./questionnaires/) - Contains the provided questionnaires.
-- [Userdata Folder](./userdata/) - Contains the generated data, which simmulates user input by speech.
-- [Notebook Folder](./notebooks/) - Contains Jupyter notebooks for code and analysis.
-- [QA Dataset File](./qa_dataset.json) - Contains expanded dataset including questions and answers. Basically the output of Task 1.
+- [`notebooks`](#) - Contains Jupyter notebooks for code and analysis.
+- [`questionnaires`](#) - Contains the provided questionnaires.
+- [`userdata`](#) - Contains the generated data, which simmulates user input by speech.
+- [`qa_dataset.json`](#) - Contains the expanded dataset including questions and answers.
+
+---
+
+&copy; 2024

@@ -1,0 +1,14 @@
+[
+    {
+        "qid": "aa2d8cdd-0758-4035-b0b6-ca18e2f380d8",
+        "question": "Data processing consent",
+        "answer": "Yes, I give you my consent for data processing.  Sounds good to me!",
+        "check_aid": "ee0437c0-6335-4b88-8bc5-d4eb8e2c68bf"
+    },
+    {
+        "qid": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "question": "Customer group",
+        "answer": "I'm part of the R&D customer group, yep.",
+        "check_aid": "ed56f777-a7cd-48db-9d36-e2579c57e361"
+    }
+]
