@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Data processing consent",
+        "possible_answers": [
+            "Yes",
+            "No"
+        ],
+        "answer_text": "Okay, yes, I give my consent for data processing.",
+        "intended_answer": "Yes"
+    },
+    {
+        "question": "Customer group",
+        "possible_answers": [
+            "End User",
+            "Wholesaler, Distributor",
+            "Consultant, Planner, Architect",
+            "R&D"
+        ],
+        "answer_text": "Without a doubt, the customer group here is the end users.",
+        "intended_answer": "End User"
+    }
+]

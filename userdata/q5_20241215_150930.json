@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Customer type",
+        "possible_answers": [
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "answer_text": "Yep, applicant's the right term for me in this situation.",
+        "intended_answer": "Applicant"
+    },
+    {
+        "question": "Customer satisfaction",
+        "possible_answers": [
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "answer_text": "I'm very satisfied with the service, it's been a breeze to use.",
+        "intended_answer": "Satisfied"
+    },
+    {
+        "question": "Size of the trade fair team (on average)",
+        "possible_answers": [
+            "1-5",
+            "6-10",
+            "11-15",
+            "16-20",
+            "21-30",
+            "31-40",
+            "more than 40"
+        ],
+        "answer_text": "Let me see...  I'd estimate the average trade fair team size to be in the twenty-one to thirty range.",
+        "intended_answer": "21-30"
+    },
+    {
+        "question": "CRM-System",
+        "possible_answers": [
+            "Salesforce",
+            "Pipedrive",
+            "Close.io",
+            "Microsoft Dynamics",
+            "HubSpot",
+            "CAS",
+            "SAP Sales Cloud",
+            "Adito"
+        ],
+        "answer_text": "For CRM systems? I'm a Pipedrive person, definitely.",
+        "intended_answer": "Pipedrive"
+    },
+    {
+        "question": "Next steps",
+        "possible_answers": [
+            "Offer",
+            "Meeting",
+            "Call"
+        ],
+        "answer_text": "Meeting! That's the way to go for next steps. We should schedule that ASAP.",
+        "intended_answer": "Meeting"
+    }
+]

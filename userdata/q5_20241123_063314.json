@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Customer type",
+        "possible_answers": [
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "answer_text": "Totally an existing customer –  wouldn't be here if I wasn't, right?",
+        "intended_answer": "Existing customer"
+    },
+    {
+        "question": "Customer satisfaction",
+        "possible_answers": [
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "answer_text": "Very satisfied, I am!  It's intuitive, easy to use, and has exceeded my expectations.",
+        "intended_answer": "Very satisfied"
+    },
+    {
+        "question": "Size of the trade fair team (on average)",
+        "possible_answers": [
+            "1-5",
+            "6-10",
+            "11-15",
+            "16-20",
+            "21-30",
+            "31-40",
+            "more than 40"
+        ],
+        "answer_text": "The average trade fair team?  I'd put it at around six to ten people, give or take.",
+        "intended_answer": "6-10"
+    },
+    {
+        "question": "CRM-System",
+        "possible_answers": [
+            "Salesforce",
+            "Pipedrive",
+            "Close.io",
+            "Microsoft Dynamics",
+            "HubSpot",
+            "CAS",
+            "SAP Sales Cloud",
+            "Adito"
+        ],
+        "answer_text": "When you mention \"CRM-system,\"  Close.io immediately comes to mind – it's a really good one!",
+        "intended_answer": "Close.io"
+    },
+    {
+        "question": "Next steps",
+        "possible_answers": [
+            "Offer",
+            "Meeting",
+            "Call"
+        ],
+        "answer_text": "Regarding next steps, I'm eager to hear about the offer you're proposing.",
+        "intended_answer": "Offer"
+    }
+]

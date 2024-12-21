@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What type of company is it?",
+        "possible_answers": [
+            "Construction company",
+            "Craft enterprises",
+            "Scaffolding company",
+            "Trading company",
+            "Production company",
+            "Education sector"
+        ],
+        "answer_text": "Yeah, it's an education sector company –  pretty straightforward.",
+        "intended_answer": "Education sector"
+    },
+    {
+        "question": "What is the size of your company?",
+        "possible_answers": [
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "answer_text": "I'd say we fall in the one to ten employee bracket.",
+        "intended_answer": "1-10"
+    }
+]

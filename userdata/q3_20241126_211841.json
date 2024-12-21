@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What type of company is it?",
+        "possible_answers": [
+            "Construction company",
+            "Craft enterprises",
+            "Scaffolding company",
+            "Trading company",
+            "Production company",
+            "Education sector"
+        ],
+        "answer_text": "They're a production company, if you were wondering.",
+        "intended_answer": "Production company"
+    },
+    {
+        "question": "What is the size of your company?",
+        "possible_answers": [
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "answer_text": "Oh, the company size?  It's between eleven and fifty people, a nice medium-sized team!",
+        "intended_answer": "11-50"
+    }
+]

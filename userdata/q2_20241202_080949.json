@@ -1,0 +1,28 @@
+[
+    {
+        "question": "Would you like to receive marketing information from via e-mail?",
+        "possible_answers": [
+            "Yes",
+            "No"
+        ],
+        "answer_text": "Sure thing!  I'm happy to receive emails from you.",
+        "intended_answer": "Yes"
+    },
+    {
+        "question": "What industry are you operating in?",
+        "possible_answers": [
+            "Aerospace",
+            "Computers & Networks",
+            "Government",
+            "Medical",
+            "Automotive",
+            "Defense",
+            "Industrial",
+            "Network Operators & Infrastructure",
+            "Public Safety / Law Enforcement",
+            "Physical Security"
+        ],
+        "answer_text": "The automotive industry is where I spend my days, it's quite exciting actually.",
+        "intended_answer": "Automotive"
+    }
+]

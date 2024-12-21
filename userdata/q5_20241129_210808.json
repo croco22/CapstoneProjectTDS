@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Customer type",
+        "possible_answers": [
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "answer_text": "I'd say I'm definitely a partner type of customer.",
+        "intended_answer": "Partner"
+    },
+    {
+        "question": "Customer satisfaction",
+        "possible_answers": [
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "answer_text": "Unsatisfied is the word that springs to mind, yeah.  It wasn't great.",
+        "intended_answer": "Unsatisfied"
+    },
+    {
+        "question": "Size of the trade fair team (on average)",
+        "possible_answers": [
+            "1-5",
+            "6-10",
+            "11-15",
+            "16-20",
+            "21-30",
+            "31-40",
+            "more than 40"
+        ],
+        "answer_text": "So, on average, I'd say the trade fair team size is somewhere between 31 and 40 people.",
+        "intended_answer": "31-40"
+    },
+    {
+        "question": "CRM-System",
+        "possible_answers": [
+            "Salesforce",
+            "Pipedrive",
+            "Close.io",
+            "Microsoft Dynamics",
+            "HubSpot",
+            "CAS",
+            "SAP Sales Cloud",
+            "Adito"
+        ],
+        "answer_text": "Close.io is the one that springs to mind when you say \"CRM-System\".  I've had good experiences with it.",
+        "intended_answer": "Close.io"
+    },
+    {
+        "question": "Next steps",
+        "possible_answers": [
+            "Offer",
+            "Meeting",
+            "Call"
+        ],
+        "answer_text": "Next steps?  Absolutely! We've gotta have a meeting to hash this out.",
+        "intended_answer": "Meeting"
+    }
+]

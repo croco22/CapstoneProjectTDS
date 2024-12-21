@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Data processing consent",
+        "possible_answers": [
+            "Yes",
+            "No"
+        ],
+        "answer_text": "Absolutely!  Data processing?  Sounds good to me.",
+        "intended_answer": "Yes"
+    },
+    {
+        "question": "Customer group",
+        "possible_answers": [
+            "End User",
+            "Wholesaler, Distributor",
+            "Consultant, Planner, Architect",
+            "R&D"
+        ],
+        "answer_text": "The main customer base?  It's a mix of architects, planners, and consultants, you know.",
+        "intended_answer": "Consultant, Planner, Architect"
+    }
+]

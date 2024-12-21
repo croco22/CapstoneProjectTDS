@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Data processing consent",
+        "possible_answers": [
+            "Yes",
+            "No"
+        ],
+        "answer_text": "No, I don't consent to data processing.  I'm not comfortable with it.",
+        "intended_answer": "No"
+    },
+    {
+        "question": "Customer group",
+        "possible_answers": [
+            "End User",
+            "Wholesaler, Distributor",
+            "Consultant, Planner, Architect",
+            "R&D"
+        ],
+        "answer_text": "I'm all about the wholesale and distributor market, it's where it's at!",
+        "intended_answer": "Wholesaler, Distributor"
+    }
+]

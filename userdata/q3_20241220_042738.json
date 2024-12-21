@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What type of company is it?",
+        "possible_answers": [
+            "Construction company",
+            "Craft enterprises",
+            "Scaffolding company",
+            "Trading company",
+            "Production company",
+            "Education sector"
+        ],
+        "answer_text": "Yep, it's a construction company;  they build houses and stuff like that.",
+        "intended_answer": "Construction company"
+    },
+    {
+        "question": "What is the size of your company?",
+        "possible_answers": [
+            "1-10",
+            "11-50",
+            "51-200",
+            "201-2000",
+            "larger than 2000"
+        ],
+        "answer_text": "We're a tiny little outfit,  think one to ten folks total.",
+        "intended_answer": "1-10"
+    }
+]

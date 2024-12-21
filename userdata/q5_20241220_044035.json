@@ -1,0 +1,63 @@
+[
+    {
+        "question": "Customer type",
+        "possible_answers": [
+            "New customer",
+            "Existing customer",
+            "Partner",
+            "Applicant"
+        ],
+        "answer_text": "I'd say I fall under the \"applicant\" category.",
+        "intended_answer": "Applicant"
+    },
+    {
+        "question": "Customer satisfaction",
+        "possible_answers": [
+            "Very satisfied",
+            "Satisfied",
+            "Unsatisfied",
+            "Very unsatisfied"
+        ],
+        "answer_text": "Yeah, I'm very satisfied.  It's been a great experience so far.",
+        "intended_answer": "Very satisfied"
+    },
+    {
+        "question": "Size of the trade fair team (on average)",
+        "possible_answers": [
+            "1-5",
+            "6-10",
+            "11-15",
+            "16-20",
+            "21-30",
+            "31-40",
+            "more than 40"
+        ],
+        "answer_text": "To be honest,  most of the time the team at the trade fair is somewhere between one and five individuals.",
+        "intended_answer": "1-5"
+    },
+    {
+        "question": "CRM-System",
+        "possible_answers": [
+            "Salesforce",
+            "Pipedrive",
+            "Close.io",
+            "Microsoft Dynamics",
+            "HubSpot",
+            "CAS",
+            "SAP Sales Cloud",
+            "Adito"
+        ],
+        "answer_text": "Close.io?  Yep, that's a CRM system I know well. Used it for a while, it was pretty decent.",
+        "intended_answer": "Close.io"
+    },
+    {
+        "question": "Next steps",
+        "possible_answers": [
+            "Offer",
+            "Meeting",
+            "Call"
+        ],
+        "answer_text": "Okay, so next steps...  I'm gonna have to pick up the phone and give them a ring.",
+        "intended_answer": "Call"
+    }
+]

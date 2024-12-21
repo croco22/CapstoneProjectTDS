@@ -1,0 +1,14 @@
+[
+    {
+        "question": "Which language is wanted for communication? ",
+        "possible_answers": [
+            "German",
+            "Italian",
+            "Japanese ",
+            "English",
+            "Spanish"
+        ],
+        "answer_text": "Let's go with English, that's my go-to language.",
+        "intended_answer": "English"
+    }
+]
