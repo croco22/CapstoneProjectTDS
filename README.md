@@ -30,7 +30,6 @@ The dashboard serves as an interactive application for working with the provided
 - [`questionnaires`](https://github.com/croco22/CapstoneProjectTDS/tree/main/questionnaires) - Stores the provided questionnaires.
 - [`userdata`](https://github.com/croco22/CapstoneProjectTDS/tree/main/userdata) - Contains initial data generated to simulate user input via speech (no longer in use).
 - [`qa_dataset.json`](https://github.com/croco22/CapstoneProjectTDS/blob/main/qa_dataset.json) - The expanded dataset including questions and answers.
-- [`qa_dataset_continuous.json`](https://github.com/croco22/CapstoneProjectTDS/blob/main/qa_dataset_continuous.json) - An extended dataset with longer texts, designed to challenge the model.
 
 ---
 
