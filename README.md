@@ -4,7 +4,7 @@ Capstone Project for the couse "Topics in Data Science" in WS 2024/25.
 **Contributors**: Philipp Landeck, Annelie Friedl & Sebastian Leipold.
 
 ## Overview
-This project involves creating and evaluating a Question & Answering (Q&A) dataset based on questionnaires provided by snapADDY. Key tasks include dataset generation, model evaluation using pre-trained Q&A models, and documentation.
+This project involves creating and evaluating a Question & Answering (Q&A) dataset based on questionnaires provided by snapADDY. Key tasks include dataset generation, model evaluation and the development of a dashboard.
 
 ## Main Tasks
 1. **Generate Q&A Dataset**
@@ -19,12 +19,19 @@ This project involves creating and evaluating a Question & Answering (Q&A) datas
    - Use different models for data generation and evaluation.
    - Explore metrics and evaluation strategies from the literature.
 
+## Dashboard  
+The dashboard serves as an interactive application for working with the provided questionnaires. It allows users to process questionnaires efficiently through a structured interface with dropdowns, buttons, a chat window, and speech-to-text input. Users can interact with the system, receive responses, and download completed questionnaires. The application was developed using Gradio, incorporating both frontend and backend components to ensure smooth usability.
+
+![Dashboard Preview](https://raw.githubusercontent.com/croco22/CapstoneProjectTDS/refs/heads/main/images/screenshot20.png)
+
 ## Repository Structure
-- [`notebooks`](https://github.com/croco22/CapstoneProjectTDS/tree/main/notebooks) - Contains Jupyter notebooks for code and analysis.
-- [`questionnaires`](https://github.com/croco22/CapstoneProjectTDS/tree/main/questionnaires) - Contains the provided questionnaires.
-- [`userdata`](https://github.com/croco22/CapstoneProjectTDS/tree/main/userdata) - Contains the generated data, which simmulates user input by speech.
-- [`qa_dataset.json`](https://github.com/croco22/CapstoneProjectTDS/blob/main/qa_dataset.json) - Contains the expanded dataset including questions and answers.
+- [`images`](https://github.com/croco22/CapstoneProjectTDS/tree/main/images) - Contains image files for documentation.
+- [`notebooks`](https://github.com/croco22/CapstoneProjectTDS/tree/main/notebooks) - Includes Jupyter notebooks for code and analysis.
+- [`questionnaires`](https://github.com/croco22/CapstoneProjectTDS/tree/main/questionnaires) - Stores the provided questionnaires.
+- [`userdata`](https://github.com/croco22/CapstoneProjectTDS/tree/main/userdata) - Contains initial data generated to simulate user input via speech (no longer in use).
+- [`qa_dataset.json`](https://github.com/croco22/CapstoneProjectTDS/blob/main/qa_dataset.json) - The expanded dataset including questions and answers.
+- [`qa_dataset_continuous.json`](https://github.com/croco22/CapstoneProjectTDS/blob/main/qa_dataset_continuous.json) - An extended dataset with longer texts, designed to challenge the model.
 
 ---
 
-&copy; December 2024
+&copy; February 2025
